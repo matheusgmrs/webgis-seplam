@@ -1,3 +1,3 @@
-# webgis-v1.6.6
+# Criação do Webgis
 Publicação do WebGIS v1.6.6
-Atualização Webgis
+Atualização Geral do Webgis
